@@ -1,0 +1,14 @@
+{
+  "name": "cipher",
+  "module": "index.ts",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "link:dotenv"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
